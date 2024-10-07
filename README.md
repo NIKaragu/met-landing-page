@@ -5,7 +5,7 @@ The use of SCSS allows for better organization of styles and enhances maintainab
 
 
 ## Design markup:
-[MET landing page](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&node-type=canvas)
+[MET landing page markup](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&node-type=canvas)
 
 ## Demo link:
-[Here you can see the final version of the project](https://nikaragu.github.io/met-landing-page/)
+[MET landing page preview](https://nikaragu.github.io/met-landing-page/)
